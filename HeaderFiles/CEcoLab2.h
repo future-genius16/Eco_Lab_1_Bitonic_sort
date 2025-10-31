@@ -18,4 +18,4 @@ typedef struct CEcoLab2 {
 int16_t createInnerComponents(CEcoLab2* me, IEcoInterfaceBus1* pIMgr);
 void demo(CEcoLab2* me);
 
-#endif
+#endif /* __C_ECOLAB2_H__ */
